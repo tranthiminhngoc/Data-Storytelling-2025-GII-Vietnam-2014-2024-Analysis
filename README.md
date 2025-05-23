@@ -7,9 +7,9 @@ Chúng tôi đã sử dụng kỹ thuật phân tích dữ liệu, trực quan h
 
 - **Tên cuộc thi:** Data Storytelling 2025
 - **Mục tiêu nhóm:** 
-+ Phân tích mối quan hệ giữa các trụ cột GII và tăng trưởng GDP tại Việt Nam trong bối cảnh ASEAN (2014–2024).
-+ Đánh giá hiệu suất hệ sinh thái đổi mới sáng tạo,  xác định điểm mạnh, điểm yếu và nút thắt.
-+ Đề xuất giải pháp chiến lược nhằm nâng cao năng lực đổi mới một cách đồng bộ và bền vững.
+  + Phân tích mối quan hệ giữa các trụ cột GII và tăng trưởng GDP tại Việt Nam trong bối cảnh ASEAN (2014–2024).
+  + Đánh giá hiệu suất hệ sinh thái đổi mới sáng tạo,  xác định điểm mạnh, điểm yếu và nút thắt.
+  + Đề xuất giải pháp chiến lược nhằm nâng cao năng lực đổi mới một cách đồng bộ và bền vững.
 
 ## Thành tích
 
